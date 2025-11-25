@@ -4,7 +4,7 @@ TN Election Analytics (1971–2021) A Power BI dashboard analyzing 50 years of T
 
 ## 📊 Decoding 50 Years of Political Cycles
 
-[![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)]
+![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 [![Years Covered](https://img.shields.io/badge/Years-1971%E2%80%932021-blue)]()
 [![Core Tools](https://img.shields.io/badge/Tech-Python%20|%20PostgreSQL%20|%20PowerBI-red)]()
 
